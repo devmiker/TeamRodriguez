@@ -1,2 +1,2 @@
 # TeamRodriguez
-An Team Profile App
+A Team Profile App
